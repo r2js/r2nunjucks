@@ -8,6 +8,8 @@ addons:
     - ubuntu-toolchain-r-test
     packages:
     - g++-4.8
+  code_climate:
+    repo_token: afa33b9c123605b4ea8638b4c742594d2ac863f6a20c4d34add0ca6b6cb8ff50
 node_js:
   - "6"
   - "7"
